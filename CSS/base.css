@@ -1,0 +1,111 @@
+/* mobile first design */
+@media screen and (min-width: 40.5em) {
+  .product-img {
+    width: 50%;
+    float: left;
+  }
+}
+h1 {
+    color: #D8DCE6;
+    font-family: avenir next;
+    font-size: 33px;
+    text-align: center;
+    border: none;
+    width: 100%;
+}
+img.me {
+    height: 400px;
+    width: 100%; 
+    display: block;
+    margin: 0%;
+    padding: 0%;
+}
+div.wrapper {
+    width:100%;
+    height:400px;
+    margin:0 auto;
+}
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+p.intro {
+    font-family: avenir;
+    text-align: left;
+    font-size: 15 px;
+    font-style: italic;
+    color: #D8DCE6;
+    border:none;
+}
+p.description {
+    font-family: avenir;
+    text-align: left;
+    font-size: 15px;
+    font-style: italic;
+    color: #D8DCE6;
+    margin-top: 0 px;
+    margin-left: 40 px;
+    margin-right: -40 px;
+    border: none;
+}
+p.food {
+    font-family: avenir;
+    text-align: left;  
+    font-size: 15px;
+    font-style: italic;
+    color: #D8DCE6;
+    margin-top: 0;
+    background: none;
+    margin-left: 40 px;
+    margin-right: -40 px;
+    border: none;
+}
+ul {
+    font-family: avenir next;
+    font-size: 15px;
+    font-weight: bold;
+    list-style: none;
+    outline: none;
+    border: none;
+    height: 200px;
+    width: 200px; 
+    display: block;
+    margin: auto;
+    margin-left:13%;
+}
+img.book {
+    height: 200px;
+    width: 200px; 
+    display: block;
+    margin: auto;
+}
+img.japanese {
+    height: 200px;
+    width:200px;
+    display:block;
+    margin:auto;
+}
+img.italian {
+    height:200px;
+    width:200px;
+    display:block;
+    margin:auto;
+}
+img.mexican {
+    height:200px;
+    width:200px;
+    display:block;
+    margin:auto;
+}
+a {
+    color: #CEE4EB;
+}
+a:hover {
+    color: #EBD5CE;
+}
+a:active {
+    color: 84BDCF;
+}
+background {
+    background-color: floralwhite;
+}
